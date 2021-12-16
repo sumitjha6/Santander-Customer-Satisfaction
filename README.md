@@ -1,2 +1,2 @@
 # Santander-Customer-Satisfaction
-Identify dissatisfied customers for Santander Bank
+Customer satisfaction is a key measure of success. Unhappy customers don't stick around.Santander Bank wanted to identify dissatisfied customers early in their relationship. Doing so would allow Santander to take proactive steps to improve a customer's happiness before it's too late. In this Kaggle competition, we have worked with hundreds of anonymized features to predict if a customer is satisfied or dissatisfied with their banking experience. Tools and Libraries Used: Python, Scikit learn, MatplotLib, Numpy, Pandas, Seaborn, Decision Trees.
